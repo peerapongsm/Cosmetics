@@ -1,0 +1,62 @@
+[
+  {
+    "name": "Original Research",
+    "weight": 2
+  },
+  {
+    "name": "API / Active Ingredient Clarity",
+    "weight": 2
+  },
+  {
+    "name": "Skin Delivery Problem",
+    "weight": 10
+  },
+  {
+    "name": "Mechanism of Action & Target Site",
+    "weight": 8
+  },
+  {
+    "name": "Skin Barrier Analysis",
+    "weight": 10
+  },
+  {
+    "name": "Novel Delivery System",
+    "weight": 2
+  },
+  {
+    "name": "Mechanistic Fit",
+    "weight": 8
+  },
+  {
+    "name": "Skin Permeation Study",
+    "weight": 20
+  },
+  {
+    "name": "Release Study",
+    "weight": 15
+  },
+  {
+    "name": "Control / Comparator Quality",
+    "weight": 7
+  },
+  {
+    "name": "Quantitative Skin Delivery Parameters",
+    "weight": 5
+  },
+  {
+    "name": "Experimental Design Quality",
+    "weight": 7
+  },
+  {
+    "name": "Critique Potential",
+    "weight": 2
+  },
+  {
+    "name": "Alternative Approach Potential",
+    "weight": 1
+  },
+  {
+    "name": "Cosmetic / Topical Application Suitability",
+    "weight": 1
+  }
+]

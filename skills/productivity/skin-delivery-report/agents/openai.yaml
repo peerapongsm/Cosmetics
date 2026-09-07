@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skin Delivery Report"
+  short_description: "Appraise skin-delivery papers in a Thai HTML report"
+  default_prompt: "Use $skin-delivery-report to evaluate the supplied paper and create a Thai HTML suitability report."

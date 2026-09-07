@@ -1,0 +1,6 @@
+{
+  "name": "cosmetics-paper-appraisal",
+  "version": "0.1.0",
+  "description": "Evidence-based topical skin-delivery paper appraisal and Thai HTML reports.",
+  "skills": ["./skills/productivity/skin-delivery-report"]
+}
